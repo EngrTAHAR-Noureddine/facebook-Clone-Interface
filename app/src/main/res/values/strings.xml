@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Facebook</string>
+    <string name="mailText">Numéro de mobile ou e-mail</string>
+    <string name="mot_de_passe">Mot de passe</string>
+</resources>
