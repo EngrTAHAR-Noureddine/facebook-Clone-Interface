@@ -1,13 +1,14 @@
 plugins {
     id 'com.android.application'
     id 'kotlin-android'
+    id 'kotlin-android-extensions'
 }
 
 android {
     compileSdk 31
 
     defaultConfig {
-        applicationId "com.example.facebbok_clone_interface"
+        applicationId "com.example.applicationtp2"
         minSdk 21
         targetSdk 31
         versionCode 1
